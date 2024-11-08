@@ -1,4 +1,4 @@
-# PySpark XGBoost Model Training and Prediction
+# Predictive Yelp Recommender: Suggesting Relevant Businesses Based on User Behavior
 
 ## Overview
 This PySpark script is designed to train a predictive model using the XGBoost algorithm for a Yelp dataset. The trained model is then used to make predictions on a validation dataset, and the results are saved to an output file.
